@@ -3,7 +3,7 @@
 ![Uploading Netflix Dashboard Snapshot.png…]()
 
 
-✨ Just Completed: Netflix Dashboard Project ✨
+✨ Just Completed: Netflix Dashboard Project 
 
 I'm excited to share the completion of my latest project—a Netflix Dashboard that visualizes key metrics and insights from Netflix's vast content library! 🎥📊
 
